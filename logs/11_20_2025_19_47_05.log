@@ -1,0 +1,8 @@
+2025-11-20 19:47:05,263 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-20 19:47:05,263 INFO [33mPress CTRL+C to quit[0m
+2025-11-20 19:47:05,265 INFO  * Restarting with stat
+2025-11-20 19:47:05,587 WARNING  * Debugger is active!
+2025-11-20 19:47:05,592 INFO  * Debugger PIN: 110-859-766
+2025-11-20 19:50:12,557 INFO  * Detected change in 'D:\\ML_PROJECT_PIPELINE\\ML_Project_Pipeline\\src\\exception.py', reloading
+2025-11-20 19:50:12,592 INFO  * Restarting with stat
